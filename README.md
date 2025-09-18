@@ -7,4 +7,4 @@
 **data_presnost_metody_FFT** - složka s datovými soubory pro analyticky řešitelné problémy, dle kterých jsem testoval přesnost metody  <br/>
 
 # Dodatek
-**vykresleni_grafu_pro_nova_data.nb** - nově vygenerovaná řešení pomocí python skriptu lze jednoduše převést do grafů pomocí tohoto notebooku
+**vykresleni_grafu_pro_nova_data.nb** - nově vygenerovaná numerická řešení pomocí python skriptu lze jednoduše převést do grafů pomocí tohoto notebooku
